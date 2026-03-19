@@ -26,7 +26,7 @@ export const links = [
   {
     title: "Portfólio",
     description: "Conheça os projetos e a essência criativa da marca.",
-    url: "#",
+    url: "https://lunuarquitetura.com.br",
     icon: BriefcaseBusiness,
     tag: "Projetos",
   },
