@@ -21,8 +21,9 @@ function Header() {
           <h1 className="header__title">Lunu Arquitetura</h1>
 
           <p className="header__description">
-            Conectando <span className="header__span">você</span> com o seu{" "}
-            <span className="header__span">Lar</span>.
+            Projetos que acolhem e unem{" "}
+            <span className="header__span">sensibilidade</span> à{" "}
+            <span className="header__span">funcionalidade</span>
           </p>
         </div>
       </div>

@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap");
 
 :root {
-  --verde-profundo: #32421D;
-  --verde-oliva: #A1A67B;
+  --marrom-profundo: #583122;
+  --marrom-verde: #735B25;
   --off-white: #F2F2F0;
   --areia-rosada: #F2DFCE;
   --rosa-amadeirado: #A37574;
 
   --texto-principal: var(--verde-profundo);
-  --texto-secundario: rgba(50, 66, 29, 0.74);
+  --texto-secundario: #583122;
 
   --font-display: "Cormorant Garamond", serif;
   --font-body: "Inter", sans-serif;

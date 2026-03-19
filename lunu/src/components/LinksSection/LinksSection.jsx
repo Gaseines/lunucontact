@@ -6,9 +6,9 @@ function LinksSection() {
   return (
     <section className="linksSection">
       <div className="linksSection__top">
-        <span className="linksSection__line"></span>
+        
         <p className="linksSection__label">Canais De Contato</p>
-        <span className="linksSection__line"></span>
+        
       </div>
 
       
